@@ -9,7 +9,7 @@ public enum EnemyType
 }
 public class Enemy : Unit {
     
-	public EnemyType enemyType;
+	public EnemyType enemyTypeZ;
 
 
 	public void SetDefaultLevels(int _health, int _powerLevel)
